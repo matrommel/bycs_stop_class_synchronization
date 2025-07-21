@@ -53,9 +53,6 @@ The script will log into the MEBIS platform, process the specified courses, and 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 # Acknowledgments
 Thanks to the developers of Selenium for providing a powerful automation framework.
 Thanks to the ByCS platform for enabling educational management through their system.
