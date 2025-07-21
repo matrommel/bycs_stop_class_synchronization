@@ -20,8 +20,9 @@ This project automates the process of synchronizing course memberships on the By
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/course-synchronization-automation.git
-   cd course-synchronization-automation
+   git clone https://github.com/matrommel/bycs_stop_class_synchronization.git
+
+   cd bycs_stop_class_synchronization
    ```
 
 2. Install the required Python packages:
