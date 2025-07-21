@@ -1,6 +1,6 @@
 # Course Synchronization Automation
 
-This project automates the process of synchronizing course memberships on the MEBIS learning platform. It allows users to manage course settings efficiently by selecting whether to synchronize members automatically.
+This project automates the process of synchronizing course memberships on the ByCS learning platform. It allows users to manage course settings efficiently by selecting whether to synchronize members automatically.
 
 ## Features
 
